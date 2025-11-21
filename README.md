@@ -1,6 +1,6 @@
 # STAT804 – Time Series Forecasting
 
-**Course:** STAT804 – Stochastic Methods in Statistical Analysis (Enhanced)
+**Course:** STAT804 – Stochastic Methods in Statistical Analysis (Enhanced)  
 **Author:** Yeongjin Yu  
 **Date:** 2025  
 
